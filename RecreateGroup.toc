@@ -1,0 +1,10 @@
+## Interface: 70300
+## Title: Recreate Group
+## Notes: Addon to save and restore groups
+## Author: Neoran
+## Version: 1.0.0
+
+embed.xml
+
+Debug.lua
+Main.lua
